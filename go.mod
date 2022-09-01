@@ -1,3 +1,3 @@
-module github.com/fourtf/i
+module github.com/GloftOfficial/i
 
 go 1.16

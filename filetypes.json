@@ -1,5 +1,5 @@
 {
-    "image": [
+    "i": [
         "jpg",
         "png",
         "tiff",
@@ -7,10 +7,10 @@
         "bmp",
         "gif"
     ],
-    "icon": [
+    "ic": [
         "ico"
     ],
-    "document": [
+    "d": [
         "json",
         "ppt",
         "ppz",
@@ -28,7 +28,7 @@
         "css",
         "rtf"
     ],
-    "video": [
+    "v": [
         "mp4",
         "webm",
         "avi",
@@ -36,24 +36,24 @@
         "mpeg",
         "mpg"
     ],
-    "archive": [
+    "ar": [
         "zip",
         "tar"
     ],
-    "code": [
+    "c": [
         "js"
     ],
-    "program": [
+    "pr": [
         "exe"
     ],
-    "script": [
+    "scr": [
         "sh",
         "bat"
     ],
-    "library": [
+    "l": [
         "dll"
     ],
-    "song": [
+    "s": [
         "mp3"
     ]
 }

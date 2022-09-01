@@ -9,9 +9,8 @@
 ### END INIT INFO
 
 # Author: Ivan Derevianko aka druss <drussilla7@gmail.com>
-
-WWW_USER=root
-APPROOT=
+WWW_USER=ubuntu
+APPROOT=/home/ubuntu/i
 
 PIDFILE=$APPROOT/i.pid
 LOGFILE=$APPROOT/i.log

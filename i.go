@@ -18,9 +18,9 @@ var (
 	// the address to listen on
 	address = "127.0.0.1:9005"
 	// the directory to save the images in
-	root = "/var/www/i.gloft.me/"
+	root = "/var/www/i.gloft.me/html/u/"
 	// the root of the link that will be generated
-	webRoot = "https://i.gloft.me/"
+	webRoot = "https://i.gloft.me/u/"
 
 	// maximum age for the files
 	// the program will delete the files older than maxAge every 2 hours
@@ -29,7 +29,7 @@ var (
 	deleteIgnoreRegexp = regexp.MustCompile("index\\.html|favicon\\.ico")
 
 	// length of the random filename
-	randomAdjectivesCount = 3
+	randomAdjectivesCount = 4
 	adjectives            = make([]string, 0)
 	filetypes             = make(map[string]string)
 )
